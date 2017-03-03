@@ -1,6 +1,6 @@
 
-title: My Resume
-url: 'http://webjeda.com'
+title: 个人简历
+url: 
 baseurl: '/online-cv' #change it according to your repository name
 
 
@@ -20,9 +20,6 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: krystalcl001@gmail.com
 phone: 156 2370 4115
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: https://github.com/krystalcl
-QQ: 164693817
+github:krystalcl
 
 #Update all the sections by editing the files inside _includes folder.
