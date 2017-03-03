@@ -20,6 +20,6 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: krystalcl001@gmail.com
 phone: 156 2370 4115
-github:krystalcl
+github: krystalcl
 
 #Update all the sections by editing the files inside _includes folder.
